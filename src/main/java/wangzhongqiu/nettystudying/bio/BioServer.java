@@ -12,8 +12,7 @@ import java.net.Socket;
  * 由于它的底层通信机制依然使用同步阻塞*IO，所以被称为 “伪异步”，
  * 下面章节我们就对伪异步代码进行分析，看看伪异步是否能够满足我们对高性能、高并发接入的诉求。
  */
-public class TimeServer {
-
+public class BioServer {
     /**
      * @param args
      * @throws IOException
@@ -34,7 +33,7 @@ public class TimeServer {
             Socket socket = null;
             while (true) {
                 socket = server.accept();
-                new Thread(new TimeServerHandler(socket)).start();
+                new Thread(new ServerHandler(socket)).start();
             }
         } finally {
             if (server != null) {

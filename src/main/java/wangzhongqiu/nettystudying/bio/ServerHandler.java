@@ -12,11 +12,11 @@ import java.util.Random;
 /**
  * Created by wangzhongqiu on 2017/9/27.
  */
-public class TimeServerHandler implements Runnable {
+public class ServerHandler implements Runnable {
 
     private Socket socket;
 
-    public TimeServerHandler(Socket socket) {
+    public ServerHandler(Socket socket) {
         this.socket = socket;
     }
 

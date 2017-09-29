@@ -13,18 +13,18 @@ import java.util.List;
 /**
  * Created by wangzhongqiu on 2017/9/27.
  */
-public class TimeClient implements Runnable {
+public class Client implements Runnable {
     public static void main(String[] args) {
         int port = 8080;
         int poolSize = 10;
         List<Runnable> timeClientList = new ArrayList<Runnable>();
         for (int i = 0; i < poolSize; i++) {
-            timeClientList.add(new TimeClient(port));
+            timeClientList.add(new Client(port));
         }
         ThreadUtil.fixedThreadPool(poolSize, timeClientList);
     }
 
-    TimeClient(int port) {
+    Client(int port) {
         this.port = port;
     }
 

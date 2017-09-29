@@ -8,6 +8,8 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../../repository/wangzhongqiu/javautils/1.0-SNAPSHOT/javautils-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../JavaUtils/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../JavaUtils/src/test/java" />
     </SOURCES>
   </library>
 </component>
