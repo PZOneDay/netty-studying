@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bc523bd-53bf-4db0-bcde-0aa41e0048b4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/nio/NioClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/nio/NioClientHandle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="3bc523bd-53bf-4db0-bcde-0aa41e0048b4" name="Default" comment="" />
     <ignored path="netty-studying.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -62,8 +58,8 @@
       <file leaf-file-name="NioClientHandle.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/nio/NioClientHandle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.483871">
-              <caret line="98" column="29" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.49308756">
+              <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="58" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -806,12 +802,12 @@
       <workItem from="1506596864860" duration="8503000" />
       <workItem from="1506743035780" duration="4048000" />
       <workItem from="1507520712184" duration="9801000" />
-      <workItem from="1507796498972" duration="5067000" />
+      <workItem from="1507796498972" duration="5247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27419000" />
+    <option name="totallyTimeSpent" value="27599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -1077,8 +1073,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/nio/NioClientHandle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.483871">
-          <caret line="98" column="29" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.49308756">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="58" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
