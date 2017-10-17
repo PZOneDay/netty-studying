@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bc523bd-53bf-4db0-bcde-0aa41e0048b4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/AcceptCompletionHandler.java" afterPath="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/AcceptCompletionHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/AsyncServerHandler.java" afterPath="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/AsyncServerHandler.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/ReadCompletionHandler.java" afterPath="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/ReadCompletionHandler.java" />
     </list>
     <ignored path="netty-studying.iws" />
@@ -29,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/AioServer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="26" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="26" />
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -39,20 +42,20 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/AsyncServerHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="41" column="43" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="19" />
               <folding>
-                <element signature="e#1106#1107#0" expanded="true" />
-                <element signature="e#1197#1198#0" expanded="true" />
+                <element signature="e#1120#1121#0" expanded="true" />
+                <element signature="e#1211#1212#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AcceptCompletionHandler.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AcceptCompletionHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/AcceptCompletionHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25345623">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadCompletionHandler.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ReadCompletionHandler.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/ReadCompletionHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.23963134">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,9 +105,10 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/nio/MultiplexerServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/AioServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/AsyncServerHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/AcceptCompletionHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/ReadCompletionHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/AsyncServerHandler.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -887,15 +891,15 @@
       <workItem from="1506743035780" duration="4048000" />
       <workItem from="1507520712184" duration="9801000" />
       <workItem from="1507796498972" duration="10295000" />
-      <workItem from="1508227715807" duration="199000" />
+      <workItem from="1508227715807" duration="351000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32846000" />
+    <option name="totallyTimeSpent" value="32998000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -956,8 +960,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="41" column="43" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
           <folding>
-            <element signature="e#1106#1107#0" expanded="true" />
-            <element signature="e#1197#1198#0" expanded="true" />
+            <element signature="e#1120#1121#0" expanded="true" />
+            <element signature="e#1211#1212#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1195,18 +1199,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.052380953">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/AioServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="26" />
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -1214,28 +1210,36 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/AsyncServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="43" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="19" />
           <folding>
-            <element signature="e#1106#1107#0" expanded="true" />
-            <element signature="e#1197#1198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/ReadCompletionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1120#1121#0" expanded="true" />
+            <element signature="e#1211#1212#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/AcceptCompletionHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25345623">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.052380953">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/ReadCompletionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23963134">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

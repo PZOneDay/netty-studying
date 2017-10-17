@@ -14,10 +14,12 @@ public class ReadCompletionHandler implements CompletionHandler<Integer, ByteBuf
     private AsynchronousSocketChannel channel;
 
     public ReadCompletionHandler(AsynchronousSocketChannel channel) {
-        if (this.channel == null)
+        if (this.channel == null) {
             this.channel = channel;
+        }
     }
 
+    @Override
     public void completed(Integer result, ByteBuffer attachment) {
         attachment.flip();
         byte[] body = new byte[attachment.remaining()];

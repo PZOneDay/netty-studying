@@ -9,6 +9,7 @@ import java.nio.channels.CompletionHandler;
  */
 public class AcceptCompletionHandler implements CompletionHandler<AsynchronousSocketChannel, AsyncServerHandler> {
 
+    @Override
     public void completed(AsynchronousSocketChannel result,
                           AsyncServerHandler attachment) {
         attachment.asynchronousServerSocketChannel.accept(attachment, this);
@@ -16,6 +17,7 @@ public class AcceptCompletionHandler implements CompletionHandler<AsynchronousSo
         result.read(buffer, buffer, new ReadCompletionHandler(result));
     }
 
+    @Override
     public void failed(Throwable exc, AsyncServerHandler attachment) {
         exc.printStackTrace();
         attachment.latch.countDown();
