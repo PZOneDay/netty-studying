@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bc523bd-53bf-4db0-bcde-0aa41e0048b4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/AcceptCompletionHandler.java" afterPath="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/AcceptCompletionHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/AsyncServerHandler.java" afterPath="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/AsyncServerHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/ReadCompletionHandler.java" afterPath="$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/ReadCompletionHandler.java" />
-    </list>
+    <list default="true" id="3bc523bd-53bf-4db0-bcde-0aa41e0048b4" name="Default" comment="" />
     <ignored path="netty-studying.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -66,8 +61,8 @@
       <file leaf-file-name="ReadCompletionHandler.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/ReadCompletionHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23963134">
-              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.49308756">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -891,15 +886,15 @@
       <workItem from="1506743035780" duration="4048000" />
       <workItem from="1507520712184" duration="9801000" />
       <workItem from="1507796498972" duration="10295000" />
-      <workItem from="1508227715807" duration="351000" />
+      <workItem from="1508227715807" duration="382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32998000" />
+    <option name="totallyTimeSpent" value="33029000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1238,8 +1233,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/wangzhongqiu/nettystudying/aio/ReadCompletionHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23963134">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.49308756">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
