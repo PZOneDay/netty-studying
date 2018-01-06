@@ -19,3 +19,4 @@ node_modules
 /.externalToolBuilders/
 *.tmp
 release.properties
+workspace.xml
