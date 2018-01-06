@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bc523bd-53bf-4db0-bcde-0aa41e0048b4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/wangzhongqiu/nettystudying/Test.java" />
-    </list>
+    <list default="true" id="3bc523bd-53bf-4db0-bcde-0aa41e0048b4" name="Default" comment="" />
     <ignored path="netty-studying.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -73,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/wangzhongqiu/nettystudying/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.20253165">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
               <folding>
                 <element signature="e#151#152#0" expanded="true" />
                 <element signature="e#193#194#0" expanded="true" />
@@ -995,15 +993,15 @@
       <workItem from="1507520712184" duration="9801000" />
       <workItem from="1507796498972" duration="10295000" />
       <workItem from="1508227715807" duration="382000" />
-      <workItem from="1515229875725" duration="53000" />
+      <workItem from="1515229875725" duration="117000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33082000" />
+    <option name="totallyTimeSpent" value="33146000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1380,7 +1378,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/wangzhongqiu/nettystudying/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20253165">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding>
             <element signature="e#151#152#0" expanded="true" />
             <element signature="e#193#194#0" expanded="true" />
