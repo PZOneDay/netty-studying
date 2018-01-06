@@ -7,7 +7,6 @@ package wangzhongqiu.nettystudying;
 public class Test {
     public static void main(String[] args) {
         System.out.print("master");
-        
         System.out.print("zhongqiu");
     }
 }
